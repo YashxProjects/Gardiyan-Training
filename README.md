@@ -1,5 +1,5 @@
 ## Gardiyan Training – Advanced Cybersecurity Task Suite
-This repository contains a portfolio of advanced cybersecurity analyst tasks completed as part of the Guardian Training Program. Each task is designed to simulate real-world attack-defense scenarios across enterprise, cloud, and hybrid infrastructures with a strong emphasis on automation, cryptography, anomaly detection, and red/blue teaming.
+This repository contains a portfolio of advanced cybersecurity analyst tasks completed as part of the Gardiyan Training Program. Each task is designed to simulate real-world attack-defense scenarios across enterprise, cloud, and hybrid infrastructures with a strong emphasis on automation, cryptography, anomaly detection, and red/blue teaming.
 
 #  Highlights
 1. AI-Powered Detection: Deployed unsupervised machine learning models to flag real-time anomalies from Zeek logs and NetFlow data.
