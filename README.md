@@ -38,12 +38,12 @@ This repository contains a portfolio of advanced cybersecurity analyst tasks com
 | **Category**                    | **Tools & Technologies**                                                        |
 | ------------------------------- | ------------------------------------------------------------------------------- |
 | **Traffic Analysis**            | Zeek, TShark, VPC Flow Logs, AWS CloudWatch Logs                                |
-| **Threat Detection**            | Wazuh SIEM, Sigma rules, Fail2Ban, custom DNS logging                           |
+| **SIEM**                        | WAZUH, ELK Stack, Kibana, custom Flask dashboards                               |
+| **Threat Detection**            | Sigma rules, Fail2Ban, custom DNS logging, KQL                                  |
 | **Cryptography**                | Open Quantum Safe (OQS), Kyber, NIST PQC suite, Microsoft SEAL, MP-SPDZ, PySyft |
 | **Cloud Platforms**             | AWS (Lambda, EC2, KMS, ALB, CloudHSM), Azure Quantum, GCP VMs                   |
 | **VPN & Tunnels**               | WireGuard + Kyber hybrid encryption, StrongSwan IPsec, OpenVPN                  |
 | **CI/CD & Scanning**            | GitHub Actions, Bandit, Semgrep, Trivy, Grype                                   |
-| **Visualization**               | ELK Stack, Kibana, custom Flask dashboards, Filebeat, Logstash                  |
 | **Honeypots**                   | Cowrie, Dionaea                                                                 |
 | **File Exfiltration / C2**      | DNS Steganography, AWS S3 channels, encrypted stagers                           |
 | **Automation**                  | Python security DSL, AWS NACLs & SGs, Lambda triggers                           |
