@@ -35,23 +35,24 @@ This repository contains a portfolio of advanced cybersecurity analyst tasks com
 |    Low-Level Simulation      | Boot malware via QEMU, Linux kernel modules, MTU tuning via pfSense CE                  |
 
 # Tools & Technologies Used
-| Category               | Tools & Technologies                                                            |
-| ---------------------- | ------------------------------------------------------------------------------- |
-|    Traffic Analysis    | Zeek, TShark, VPC Flow Logs, AWS CloudWatch Logs                                |
-|    Threat Detection    | Wazuh SIEM, Sigma rules, Fail2Ban, custom DNS logging                           |
-|    Cryptography        | Open Quantum Safe (OQS), Kyber, NIST PQC suite, Microsoft SEAL, MP-SPDZ, PySyft |
-|    Cloud Platforms     | AWS (Lambda, EC2, KMS, ALB, CloudHSM), Azure Quantum, GCP VMs                   |
-|    VPN & Tunnels       | WireGuard + Kyber hybrid encryption, StrongSwan IPsec, OpenVPN, pfSense CE      |
-|    CI/CD & Scanning    | GitHub Actions, Bandit, Semgrep, Trivy, Grype                                   |
-|    Visualization       | ELK Stack, Kibana, custom Flask dashboards                                      |
-|    Honeypots           | Cowrie, Dionaea, Slowloris, Nmap, hping3                                        |
-|    File Exfil/C2       | DNS Steganography, AWS S3 channels, encrypted stagers                           |
-|    Automation          | Python security DSL, AWS NACLs & SGs, Lambda triggers                           |
-|    OS & Virtualization | QEMU, TinyCore boot malware, Linux kernel module manipulation                   |
-|    Languages (Core)    | Rust, C, Bash, Python, JavaScript (Node/React), Go                              |
+| **Category**                    | **Tools & Technologies**                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------- |
+| **Traffic Analysis**            | Zeek, TShark, VPC Flow Logs, AWS CloudWatch Logs                                |
+| **Threat Detection**            | Wazuh SIEM, Sigma rules, Fail2Ban, custom DNS logging                           |
+| **Cryptography**                | Open Quantum Safe (OQS), Kyber, NIST PQC suite, Microsoft SEAL, MP-SPDZ, PySyft |
+| **Cloud Platforms**             | AWS (Lambda, EC2, KMS, ALB, CloudHSM), Azure Quantum, GCP VMs                   |
+| **VPN & Tunnels**               | WireGuard + Kyber hybrid encryption, StrongSwan IPsec, OpenVPN                  |
+| **CI/CD & Scanning**            | GitHub Actions, Bandit, Semgrep, Trivy, Grype                                   |
+| **Visualization**               | ELK Stack, Kibana, custom Flask dashboards, Filebeat, Logstash                  |
+| **Honeypots**                   | Cowrie, Dionaea                                                                 |
+| **File Exfiltration / C2**      | DNS Steganography, AWS S3 channels, encrypted stagers                           |
+| **Automation**                  | Python security DSL, AWS NACLs & SGs, Lambda triggers                           |
+| **OS & Virtualization**         | QEMU, TinyCore boot malware                                                     |                           
+| **Offensive Testing**           | Slowloris, Nmap, hping3 , Hydra, John the Ripper, Metasploit Framework          |
+| **Firewall / Network Security** | pfSense CE                                                                      |
 
 # Hands-On Experience and Certification Through Gardiyan
-I had the privilege of joining Gardiyan’s observation phase, where I gained hands-on experience in foundational cybersecurity principles, threat detection, and defensive operations. Under the guidance of highly skilled mentors, I was introduced to industry-standard frameworks and tools, which helped solidify my understanding of core security concepts. Additionally, I enrolled in the CySA+ certification course offered by Gardiyan, further deepening my theoretical and practical knowledge in areas such as risk management, network security, and cryptography. I hold deep respect for the structured and professional environment provided by Gardiyan, and I'm currently in the Gardiyan’s training program(Cybersecurity Analyst), actively applying and expanding upon the concepts learned during the training. This experience has been instrumental in shaping my cybersecurity journey with both discipline and clarity.
+I had the privilege of joining Gardiyan’s observation phase, where I gained hands-on experience in foundational cybersecurity principles, threat detection, and defensive operations. Under the guidance of highly skilled mentors, I was introduced to industry-standard frameworks and tools, which helped solidify my understanding of core security concepts. Over the course of my training, I became familiar with 52 professional cybersecurity tools and technologies spanning traffic analysis, threat detection, offensive testing, cryptography, cloud platforms, and more. Additionally, I enrolled in the CySA+ certification course offered by Gardiyan, further deepening my theoretical and practical knowledge in areas such as risk management, network security, and cryptography. I hold deep respect for the structured and professional environment provided by Gardiyan, and I'm currently in Gardiyan’s training program (Cybersecurity Analyst), actively applying and expanding upon the concepts learned. This experience has been instrumental in shaping my cybersecurity journey with both discipline and clarity.
 
 # Mentorship & Team Collaboration
 During my time with Gardiyan, I had the privilege of working under the guidance of highly skilled and experienced senior cybersecurity professionals, whose insights and feedback played a crucial role in shaping my technical and analytical approach. Their mentorship created a strong foundation for continuous learning and real-world application of cybersecurity principles. I was also fortunate to work under the SOC Manager, whose leadership provided invaluable exposure to high-level security operations and strategic incident handling. I also had the opportunity to collaborate closely with the SOC Level 1 (L1) team, which was one of the most rewarding and educational aspects of my journey. The team’s structured processes, rapid response strategies, and professionalism provided a live operational context that textbooks alone cannot offer. One of the standout qualities of Gardiyan's environment was its exceptional communication culture—open, respectful, and knowledge-driven. The clarity in task delegation, timely feedback loops, and team synergy made every engagement smooth, effective, and deeply enriching. I’m truly grateful to have been part of such a well-organized and expert-led ecosystem.
