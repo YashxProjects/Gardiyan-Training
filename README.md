@@ -19,6 +19,8 @@ This repository contains a portfolio of advanced cybersecurity analyst tasks com
 8. Cloud Compliance Monitoring: Built dashboards to map real-time security controls to GRC standards (ISO 27001, NIST 800-53).
 
 9. Threat Simulation Grid: Deployed multi-cloud honeypots (Cowrie, Dionaea) and correlated attacks across layers for detection tuning.
+    
+10. Active Directory Security Hardening: Implemented a 60-task AD security project covering user/group administration, GPO deployment, privileged access control, DNS security, threat detection, and disaster recovery in a simulated enterprise environment.
 
 # Skills Acquired
 | Category                     | Skills                                                                                  |
